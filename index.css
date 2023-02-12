@@ -1,0 +1,32 @@
+.slider{
+    width:100%;
+    overflow: hidden;
+}
+.slide{
+    width: 100%;
+    float: left;
+    position: relative;
+}
+.slide img{
+    width: 100%;
+    height: auto;
+}
+h3 {
+    text-align: center;
+
+}
+/*.caption{
+    position: absolute;
+    bottom: 0;
+    left:0;
+    right:0;
+    background: rgba(0, 0, 0, 0.5);
+    color:#fff;
+    padding: 10px;
+}
+@media (max-width:600px){
+    .caption{
+        font-size: 10px;
+    }
+}*/
+    
